@@ -1,0 +1,4 @@
+Hello, I'm Mohamed, a recent Bachelor's graduate in Computer Science from Algeria. I have a passion for coding and design that started at a young age, and I've been continuously honing my skills in these areas. With experience in web development and problem-solving, I thrive on tackling complex challenges that push me to grow.
+As a UI/UX Designer, I am adept at creating intuitive and visually appealing user interfaces that enhance the overall user experience. My expertise lies in combining aesthetics with functionality to deliver seamless digital products.
+I am currently seeking new opportunities to collaborate with creative teams and contribute my skills to exciting projects. I'm driven by the prospect of working on innovative solutions and being part of a dynamic environment that fosters growth and creativity.
+Please feel free to reach out if you'd like to discuss potential collaborations or if you have any questions about my background and capabilities.
