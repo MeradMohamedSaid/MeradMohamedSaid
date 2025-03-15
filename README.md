@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi, I'm Merad Mohamed Said 🚀 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sa3id) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-merad-a9463b287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meradmohamedsaid@gmail.com) <br><br/>🔎 Computer Science Student from Mohamed Khider Biskra University <br><br/>👨‍💻 Web Developer & Competitive Programmer<br><br/>📚 Master’s Student | AI Major<br><br/>🎨 I also design interfaces and build seamless user experiences<br><br/>
 
 
